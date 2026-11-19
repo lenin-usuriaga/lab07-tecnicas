@@ -26,8 +26,6 @@ Herramienta de IA usada: (escribe aqui cual usaste)
 | B. Rol docente | Sencillo (parte desde cero, comparaciones de la vida diaria) | Si, caja con objetos, esquema visual, codigo en Python y tabla de tipos | Estudiantes que nunca han programado |
 | C. Rol senior | Tecnico (memoria, tipo de dato, declaracion, identificador) | Si, codigo en Java con caso de un sistema de ventas | Companeros desarrolladores que ya programan |
  
-## Ejercicio 5: Descomposicion 
-
 ## Ejercicio 5: Descomposicion
 
 **Pedido de una sola vez:** "Crea un sistema de inventario para una tienda."
@@ -42,8 +40,6 @@ La IA entrego una aplicacion web completa (INVENTARIO PRO) con productos, stock,
 
 **Comparacion:** El pedido de una sola vez me dio algo grande pero sin control, y no pude revisar cada parte. El pedido por pasos me dio requisitos, un diseno de clases y el codigo de Producto en Java, coherentes entre si (por ejemplo, el atributo cantidadStock paso igual del diseno al codigo). Ademas, al revisar cada respuesta pude corregir el diseno con mis propias indicaciones y detectar detalles que mejorar.
  
-## Ejercicio 6: Prompt estructurado y autocritica 
-
 ## Ejercicio 6: Prompt estructurado y autocritica
 
 **Prompt basico:** "Dame casos de prueba para un login."
